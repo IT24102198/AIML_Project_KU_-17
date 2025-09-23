@@ -31,4 +31,5 @@ Normalization: Run IT24_Normalization.ipynb. This notebook reads survey_no_outli
 Encoding: Run IT24_Encoding.ipynb. This notebook uses survey_scaled.csv as its input.
 
 
-Feature Engineering: Finally, run IT24100667_Feature_Engineering.ipynb. This notebook reads the encoded data from survey_encoded.csv and performs feature engineering, saving the final principal components as top15_features_pca.csv.
+Feature Engineering: Finally, run IT24100667_Feature_Engineering.ipynb. This notebook reads the encoded data from survey_encoded.csv and performs feature engineering, saving the final principal components as survey_final_features.csv.
+
